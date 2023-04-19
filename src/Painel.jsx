@@ -1,4 +1,5 @@
 import foto01 from './img/foto01.jpg';
+import foto02 from './img/foto02.jpg';
 import './css/style.css';
 
 function Painel() {
